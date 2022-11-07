@@ -1,0 +1,20 @@
+gs://us.artifacts.k8s-release-test-prod.appspot.com/ :
+	Storage class:			STANDARD
+	Location type:			multi-region
+	Location constraint:		US
+	Versioning enabled:		None
+	Logging configuration:		Present
+	Website configuration:		None
+	CORS configuration: 		None
+	Lifecycle configuration:	None
+	Requester Pays enabled:		None
+	Labels:				None
+	Default KMS key:		None
+	Time created:			Tue, 09 Jul 2019 22:05:50 GMT
+	Time updated:			Wed, 02 Mar 2022 13:23:21 GMT
+	Metageneration:			45
+	Bucket Policy Only enabled:	True
+	Public access prevention:	inherited
+	RPO:				DEFAULT
+	ACL:				[]
+	Default ACL:			[]

@@ -1,0 +1,16 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+- ameukam # sig-k8s-infra chair
+- cblecker # sig-contribex tl
+- dims # sig-k8s-infra chair
+- nikhita # sig-contribex tl
+- spiffxp # sig-k8s-infra chair
+- thockin
+
+emeritus_approvers:
+- mikedanese
+- bartsmykla
+
+labels:
+- sig/k8s-infra

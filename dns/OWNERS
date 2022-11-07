@@ -1,0 +1,16 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+options:
+  no_parent_owners: true
+approvers:
+  - bentheelder
+  - cblecker
+  - dims
+  - munnerz
+  - spiffxp
+  - thockin
+emeritus_approvers:
+  - bartsmykla
+
+labels:
+  - area/dns

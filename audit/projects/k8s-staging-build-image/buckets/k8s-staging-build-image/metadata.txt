@@ -1,0 +1,20 @@
+gs://k8s-staging-build-image/ :
+	Storage class:			STANDARD
+	Location type:			multi-region
+	Location constraint:		US
+	Versioning enabled:		None
+	Logging configuration:		Present
+	Website configuration:		None
+	CORS configuration: 		None
+	Lifecycle configuration:	Present
+	Requester Pays enabled:		None
+	Labels:				None
+	Default KMS key:		None
+	Time created:			Tue, 09 Jul 2019 10:38:07 GMT
+	Time updated:			Tue, 02 Aug 2022 14:22:42 GMT
+	Metageneration:			61
+	Bucket Policy Only enabled:	True
+	Public access prevention:	inherited
+	RPO:				DEFAULT
+	ACL:				[]
+	Default ACL:			[]

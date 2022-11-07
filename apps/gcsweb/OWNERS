@@ -1,0 +1,12 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+- spiffxp
+- thockin
+
+emeritus_approvers:
+- ixdy
+
+labels:
+- sig/testing
+- area/apps/gcsweb
